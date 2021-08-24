@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Gilliano\\kotlin\\toDoList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_task.xml",
+        "source": "C:\\Users\\Gilliano\\kotlin\\toDoList\\app\\src\\main\\res\\layout\\item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilliano\\kotlin\\toDoList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\empty_state.xml",
+        "source": "C:\\Users\\Gilliano\\kotlin\\toDoList\\app\\src\\main\\res\\layout\\empty_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilliano\\kotlin\\toDoList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_task.xml",
+        "source": "C:\\Users\\Gilliano\\kotlin\\toDoList\\app\\src\\main\\res\\layout\\activity_add_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gilliano\\kotlin\\toDoList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Gilliano\\kotlin\\toDoList\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

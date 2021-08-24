@@ -1,0 +1,10 @@
+com/example/todolist/databinding/ItemTaskBinding.java
+ com.example.todolist.databinding.ItemTaskBinding
+com/example/todolist/databinding/EmptyStateBinding.java
+ com.example.todolist.databinding.EmptyStateBinding
+com/example/todolist/databinding/ActivityAddTaskBinding.java
+ com.example.todolist.databinding.ActivityAddTaskBinding
+com/example/todolist/BuildConfig.java
+ com.example.todolist.BuildConfig
+com/example/todolist/databinding/ActivityMainBinding.java
+ com.example.todolist.databinding.ActivityMainBinding
