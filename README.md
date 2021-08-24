@@ -3,6 +3,7 @@ Projeto de tarefas diária do Bootcamp Santander na Dio
 
 O Projeto de Tarefas tem o objetivo de cadastrar todas as tarefas diárias com a data e hora a ser realizada, podemos também alterar as tarefas e deletar.
 Foi feito algumas alterações no front do projeto mantendo o foco principal do trabalho final.
+Segue abaixo 3 telas do aplicativo Tarefas:
 
 ![Screenshot_20210824-004732](https://user-images.githubusercontent.com/83781626/130555151-fa1f459c-01fe-454d-bdbb-7fb55c8a2af7.png)
 ![Screenshot_20210824-004804](https://user-images.githubusercontent.com/83781626/130555173-433190fd-cbaa-438e-a7c2-447122bd853c.png)
