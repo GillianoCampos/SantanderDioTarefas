@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">toDoList</string>
+    <string name="label_new_task">Criar Tarefa</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_title">Título</string>
+    <string name="label_date">Data</string>
+    <string name="label_hour">Hora</string>
+    <string name="label_tasks">Tarefas</string>
+    <string name="label_description_new_task">Nova Tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+    <string name="label_you_dont_have_tasks">Você não possui\n nenhuma tarefa</string>
+    <string name="label_bootcamp">Dedicar ao Bootcamp Santander\n na Dio</string>
+    <string name="label_santander">Dedicar ao Botcamp\n Santander Mobile na DIO</string>
+    <string name="label_motivacional">Conseguir uma vaga no Santander através do Bootcamp na plataforma DIO</string>
+</resources>

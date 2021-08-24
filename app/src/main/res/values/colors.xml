@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="redsantander">#EC1710</color>
+    <color name="teal_200">#00BCD4</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="fundocreme">#F8CF54</color>
+    <color name="bonina">#970606</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFF5</color>
+</resources>
